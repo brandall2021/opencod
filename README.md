@@ -10,7 +10,8 @@ Colección completa de skills instaladas para [OpenCode](https://opencode.ai) �
 | Design & UI/UX | 16 | `obra/superpowers` + globales |
 | Development Process | 15 | `obra/superpowers` |
 | Local / Extra | 2 | `/home/proyecto/.agents/skills` |
-| **Total** | **71** | |
+| OpenCode Core | 11 | `/root/.config/opencode/skills` |
+| **Total** | **82** | |
 
 ---
 
@@ -117,6 +118,31 @@ for skill in brainstorming dispatching-parallel-agents executing-plans finishing
 done
 ```
 
+### OpenCode Core Skills (11 skills)
+
+```bash
+# Skills preinstaladas en OpenCode - ya disponibles en la sesión
+# Ubicación: /root/.config/opencode/skills/
+# NO requieren instalación adicional
+
+# Listar todas las skills core:
+ls /root/.config/opencode/skills/
+```
+
+| Skill | Descripción |
+|-------|-------------|
+| `api-design-principles` | Diseño de APIs REST y GraphQL |
+| `brainstorming` | Exploración creativa antes de implementar |
+| `changelog-automation` | Generación automática de changelogs |
+| `customize-opencode` | Configuración de opencode |
+| `error-handling-patterns` | Patrones de manejo de errores |
+| `frontend-design` | Diseño visual para UI |
+| `interface-design` | Diseño de interfaces (dashboards, SaaS, etc.) |
+| `postgresql` | Diseño de esquemas PostgreSQL |
+| `prompt-engineering-patterns` | Optimización de prompts para LLMs |
+| `systematic-debugging` | Depuración sistemática de bugs |
+| `vercel-react-best-practices` | Mejores prácticas React/Next.js |
+
 ---
 
 ## Listado Completo de Skills
@@ -210,6 +236,22 @@ done
 | `verification-before-completion` | Incluido con plugin | Verificación pre-merge |
 | `writing-plans` | Incluido con plugin | Escritura de planes |
 | `writing-skills` | Incluido con plugin | Creación de skills |
+
+### OpenCode Core Skills
+
+| Skill | Descripción |
+|-------|-------------|
+| `api-design-principles` | Diseño de APIs REST y GraphQL |
+| `brainstorming` | Exploración creativa antes de implementar |
+| `changelog-automation` | Generación automática de changelogs |
+| `customize-opencode` | Configuración de opencode |
+| `error-handling-patterns` | Patrones de manejo de errores |
+| `frontend-design` | Diseño visual para UI |
+| `interface-design` | Diseño de interfaces (dashboards, SaaS, etc.) |
+| `postgresql` | Diseño de esquemas PostgreSQL |
+| `prompt-engineering-patterns` | Optimización de prompts para LLMs |
+| `systematic-debugging` | Depuración sistemática de bugs |
+| `vercel-react-best-practices` | Mejores prácticas React/Next.js |
 
 ---
 
