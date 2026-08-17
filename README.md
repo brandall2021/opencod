@@ -9,7 +9,8 @@ Colecci贸n completa de skills instaladas para [OpenCode](https://opencode.ai) 鈥
 | Marketing & Growth | 38 | `obra/superpowers` |
 | Design & UI/UX | 16 | `obra/superpowers` + globales |
 | Development Process | 15 | `obra/superpowers` |
-| **Total** | **69** | |
+| Local / Extra | 2 | `/home/proyecto/.agents/skills` |
+| **Total** | **71** | |
 
 ---
 
@@ -25,7 +26,16 @@ cp -r /tmp/superpowers/skills/* /home/brandall/desarrollo/.agents/skills/
 # 3. Copiar skills globales (design + UI)
 cp -r /tmp/superpowers/skills/* /root/.agents/skills/
 
-# 4. Configurar opencode.json para cargar el plugin
+# 4. Copiar skills locales que ya est谩n instaladas en esta PC
+for skill in code-review-and-quality grill-with-docs; do
+  src="/home/proyecto/.agents/skills/$skill/SKILL.md"
+  dst="/home/brandall/desarrollo/.agents/skills/$skill/SKILL.md"
+  [ -f "$dst" ] && continue
+  mkdir -p "$(dirname "$dst")"
+  cp "$src" "$dst"
+done
+
+# 5. Configurar opencode.json para cargar el plugin
 cat > ~/.config/opencode/opencode.json << 'EOF'
 {
   "$schema": "https://opencode.ai/config.json",
@@ -35,9 +45,11 @@ cat > ~/.config/opencode/opencode.json << 'EOF'
 }
 EOF
 
-# 5. Verificar instalaci贸n
+# 6. Verificar instalaci贸n
 ls /home/brandall/desarrollo/.agents/skills/
 ls /root/.agents/skills/
+ls /home/brandall/desarrollo/.agents/skills/code-review-and-quality/
+ls /home/brandall/desarrollo/.agents/skills/grill-with-docs/
 ```
 
 ---
@@ -72,6 +84,24 @@ for skill in animation-vocabulary emil-design-eng frontend-design review-animati
   cp /tmp/superpowers/skills/$skill/SKILL.md /root/.agents/skills/$skill/
 done
 ```
+
+### Skills locales instaladas en esta PC (2 skills)
+
+```bash
+# Copiar solo si no existen en el proyecto
+for skill in code-review-and-quality grill-with-docs; do
+  src="/home/proyecto/.agents/skills/$skill/SKILL.md"
+  dst="/home/brandall/desarrollo/.agents/skills/$skill/SKILL.md"
+  [ -f "$dst" ] && continue
+  mkdir -p "$(dirname "$dst")"
+  cp "$src" "$dst"
+done
+```
+
+| Skill | Comando | Descripci贸n |
+|-------|---------|-------------|
+| `code-review-and-quality` | `cp /home/proyecto/.agents/skills/code-review-and-quality/SKILL.md /home/brandall/desarrollo/.agents/skills/code-review-and-quality/SKILL.md` | Revisi贸n de c贸digo y calidad |
+| `grill-with-docs` | `cp /home/proyecto/.agents/skills/grill-with-docs/SKILL.md /home/brandall/desarrollo/.agents/skills/grill-with-docs/SKILL.md` | Entrevista para planificar y documentar |
 
 ### Development Process (15 skills)
 
