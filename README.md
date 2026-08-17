@@ -4,131 +4,233 @@ Colección completa de skills instaladas para [OpenCode](https://opencode.ai) �
 
 ## Resumen
 
-| Categoría | Cantidad |
-|-----------|----------|
-| Marketing & Growth | 38 |
-| Design & UI/UX | 14 |
-| Development Process | 14 |
-| **Total** | **66** |
+| Categoría | Cantidad | Fuente |
+|-----------|----------|--------|
+| Marketing & Growth | 38 | `obra/superpowers` |
+| Design & UI/UX | 16 | `obra/superpowers` + globales |
+| Development Process | 15 | `obra/superpowers` |
+| **Total** | **69** | |
 
 ---
 
-## Marketing & Growth
-
-Skills especializadas en marketing digital, growth, ventas y estrategia comercial.
-
-| Skill | Descripción |
-|-------|-------------|
-| `ab-testing` | Planificación, diseño e implementación de tests A/B y experimentos |
-| `ad-creative` | Generación de creatividad para ads (headlines, descripciones, variaciones) |
-| `ads` | Campañas publicitarias en Google Ads, Meta, LinkedIn, Twitter/X |
-| `ai-seo` | Optimización para motores de búsqueda de IA (AEO, GEO, LLMO) |
-| `analytics` | Setup, auditoría y mejora de tracking y medición (GA4, GTM, Mixpanel) |
-| `aso` | App Store Optimization para listings en App Store y Google Play |
-| `brandkit` | Generación de imágenes premium de brand guidelines y sistemas de identidad |
-| `churn-prevention` | Reducción de churn, cancellation flows, save offers, dunning |
-| `cold-email` | Emails fríos B2B y secuencias de follow-up que obtienen respuestas |
-| `co-marketing` | Búsqueda de partners, campañas conjuntas, cross-promotion |
-| `community-marketing` | Construcción y gestión de comunidades online para crecimiento |
-| `content-strategy` | Estrategia de contenido, calendarios editoriales, topic clusters |
-| `copy-editing` | Edición, revisión y mejora de copy marketing existente |
-| `copywriting` | Escritura de copy para landing pages, homepages, pricing, features |
-| `cro` | Optimización de tasas de conversión en páginas y formularios |
-| `customer-research` | Investigación y análisis de clientes (VOC, JTBD, personas) |
-| `directory-submissions` | Envío a directorios para backlinks y descubrimiento |
-| `emails` | Secuencias de email, drip campaigns, lifecycle email programs |
-| `free-tools` | Planificación y construcción de herramientas gratuitas para marketing |
-| `lead-magnets` | Creación y optimización de lead magnets para captura de emails |
-| `launch` | Planificación de lanzamientos de productos y features |
-| `marketing-council` | Perspectivas simuladas de expertos (Seth Godin, Ogilvy, Hormozi, etc.) |
-| `marketing-ideas` | Ideas y estrategias de marketing para SaaS y software |
-| `marketing-loops` | Workflows de marketing recurrentes y automatizados |
-| `marketing-plan` | Planes de marketing integrales (AARRR, 90 días, 12 meses) |
-| `marketing-psychology` | Principios psicológicos y modelos cognitivos aplicados a marketing |
-| `offers` | Diseño de ofertas, value framing, bonus stacks, guarantees |
-| `onboarding` | Optimización de onboarding post-signup y activación de usuarios |
-| `paywalls` | Creación y optimización de paywalls, upgrade screens, feature gates |
-| `popups` | Creación y optimización de popups, modals, overlays para conversión |
-| `pricing` | Decisiones de pricing, packaging, monetización, freemium |
-| `product-marketing` | Contexto de marketing de producto, posicionamiento, ICP |
-| `programmatic-seo` | Páginas SEO a escala usando templates y datos |
-| `prospecting` | Construcción y cualificación de listas de prospects |
-| `public-relations` | PR, earned media, cobertura de prensa, outreach a periodistas |
-| `referrals` | Programas de referidos, afiliados, word-of-mouth |
-| `revops` | Revenue operations, lead lifecycle, marketing-to-sales handoff |
-| `sales-enablement` | Collateral de ventas, pitch decks, one-pagers, objection handling |
-| `schema` | Schema markup y structured data para rich snippets |
-| `seo-audit` | Auditorías SEO técnicas y on-page |
-| `signup` | Optimización de flujos de registro y account creation |
-| `site-architecture` | Arquitectura de sitio, navegación, estructura de URLs |
-| `sms` | Marketing SMS/MMS, secuencias automatizadas, compliance |
-| `social` | Contenido para redes sociales, calendarios, social listening |
-
----
-
-## Design & UI/UX
-
-Skills de diseño visual, frontend engineering y experiencias de interfaz premium.
-
-| Skill | Descripción |
-|-------|-------------|
-| `animation-vocabulary` | Glosario inverso de animaciones web (descripción → nombre exacto) |
-| `design-taste-frontend` | Ingeniero UI/UX Senior. Arquitectura de interfaces con reglas métricas |
-| `emil-design-eng` | Filosofía de Emil Kowalski: UI polish, diseño de componentes, animación |
-| `frontend-design` | Guía para diseño visual distintivo e intencional en UI |
-| `gpt-taste` | Motion engineer GSAP, layouts randomizados, tipografía editorial |
-| `high-end-visual-design` | Sistema de diseño de agencia premium (tipos, sombras, cards, animaciones) |
-| `image` | Creación y optimización de imágenes para marketing |
-| `image-to-code` | Skill elite: imágenes de diseño → código web fiel |
-| `imagegen-frontend-mobile` | Generación de imágenes premium de screens y flows móviles |
-| `imagegen-frontend-web` | Generación de imágenes de referencia de diseño web premium |
-| `industrial-brutalist-ui` | Interfaces brutalistas industriales (Swiss typographic + military terminal) |
-| `minimalist-ui` | Interfaces editoriales limpias (monocromo cálido, bento grids) |
-| `redesign-existing-projects` | Upgrade de sitios existentes a calidad premium |
-| `review-animations` | Revisión de código de animación contra estándar de craft alto |
-| `stitch-design-taste` | Design system semántico para Google Stitch |
-| `ui-ux-pro-max` | Inteligencia UI/UX para web y móvil (50+ estilos, 161 paletas, 57 font pairings) |
-
----
-
-## Development Process
-
-Skills de proceso de desarrollo, debugging, testing y gestión de código.
-
-| Skill | Descripción |
-|-------|-------------|
-| `brainstorming` | Obligatorio antes de cualquier trabajo creativo — explora intención y requisitos |
-| `dispatching-parallel-agents` | Tareas paralelas independientes con subagentes |
-| `executing-plans` | Ejecución de planes de implementación en sesiones separadas |
-| `finishing-a-development-branch` | Decisión de integración al completar implementación |
-| `full-output-enforcement` | Generación completa de código sin truncar ni placeholders |
-| `receiving-code-review` | Manejo de feedback de code review con rigor técnico |
-| `requesting-code-review` | Solicitud de code review antes de merge |
-| `subagent-driven-development` | Ejecución de planes con tareas independientes via subagentes |
-| `systematic-debugging` | Debugging sistemático ante bugs, test failures o comportamiento inesperado |
-| `test-driven-development` | TDD antes de escribir código de implementación |
-| `using-git-worktrees` | Workspaces aislados para desarrollo de features |
-| `using-superpowers` | Cómo encontrar y usar las skills del sistema |
-| `verification-before-completion` | Verificación obligatoria antes de claim de trabajo completado |
-| `writing-plans` | Escritura de planes de implementación antes de tocar código |
-| `writing-skills` | Creación, edición y verificación de nuevas skills |
-
----
-
-## Instalación
-
-Las skills se cargan automáticamente por OpenCode. Para instalar manualmente:
+## Instalación Rápida
 
 ```bash
-# Skills de marketing (agregar al directorio del proyecto)
-cp -r skills/* /home/brandall/desarrollo/.agents/skills/
+# 1. Clonar el repo de superpowers (contiene todas las skills)
+git clone https://github.com/obra/superpowers.git /tmp/superpowers
 
-# Skills globales (disponibles en todos los proyectos)
-cp -r skills/* /root/.agents/skills/
+# 2. Copiar skills de proyecto (marketing + design)
+cp -r /tmp/superpowers/skills/* /home/brandall/desarrollo/.agents/skills/
 
-# Superpowers (vienen con el paquete opencode)
-# Ubicadas en /root/.cache/opencode/packages/superpowers/
+# 3. Copiar skills globales (design + UI)
+cp -r /tmp/superpowers/skills/* /root/.agents/skills/
+
+# 4. Configurar opencode.json para cargar el plugin
+cat > ~/.config/opencode/opencode.json << 'EOF'
+{
+  "$schema": "https://opencode.ai/config.json",
+  "plugin": [
+    "superpowers@git+https://github.com/obra/superpowers.git"
+  ]
+}
+EOF
+
+# 5. Verificar instalación
+ls /home/brandall/desarrollo/.agents/skills/
+ls /root/.agents/skills/
 ```
+
+---
+
+## Instalación por Skill
+
+### Marketing & Growth (38 skills)
+
+```bash
+# Crear directorio de skills del proyecto
+mkdir -p /home/brandall/desarrollo/.agents/skills/
+
+# Todas las skills de marketing
+for skill in ab-testing ad-creative ads ai-seo analytics aso brandkit churn-prevention cold-email co-marketing community-marketing content-strategy copy-editing copywriting cro customer-research directory-submissions emails free-tools lead-magnets launch marketing-council marketing-ideas marketing-loops marketing-plan marketing-psychology offers onboarding paywalls popups pricing product-marketing programmatic-seo prospecting public-relations referrals revops sales-enablement schema seo-audit signup site-architecture sms social; do
+  mkdir -p /home/brandall/desarrollo/.agents/skills/$skill
+  cp /tmp/superpowers/skills/$skill/SKILL.md /home/brandall/desarrollo/.agents/skills/$skill/
+done
+```
+
+### Design & UI/UX (16 skills)
+
+```bash
+# Skills de diseño (proyecto)
+for skill in design-taste-frontend gpt-taste high-end-visual-design image image-to-code imagegen-frontend-mobile imagegen-frontend-web industrial-brutalist-ui minimalist-ui redesign-existing-projects stitch-design-taste ui-ux-pro-max; do
+  mkdir -p /home/brandall/desarrollo/.agents/skills/$skill
+  cp /tmp/superpowers/skills/$skill/SKILL.md /home/brandall/desarrollo/.agents/skills/$skill/
+done
+
+# Skills de diseño (globales - disponibles en todos los proyectos)
+for skill in animation-vocabulary emil-design-eng frontend-design review-animations; do
+  mkdir -p /root/.agents/skills/$skill
+  cp /tmp/superpowers/skills/$skill/SKILL.md /root/.agents/skills/$skill/
+done
+```
+
+### Development Process (15 skills)
+
+```bash
+# Skills de proceso (incluidas con el plugin superpowers)
+# Se cargan automáticamente al instalar el plugin en opencode.json
+# Ubicación: /root/.cache/opencode/packages/superpowers@git+https:/github.com/obra/superpowers.git/node_modules/superpowers/skills/
+
+# Para forzar instalación manual:
+for skill in brainstorming dispatching-parallel-agents executing-plans finishing-a-development-branch full-output-enforcement receiving-code-review requesting-code-review subagent-driven-development systematic-debugging test-driven-development using-git-worktrees using-superpowers verification-before-completion writing-plans writing-skills; do
+  mkdir -p /home/brandall/desarrollo/.agents/skills/$skill
+  cp /tmp/superpowers/skills/$skill/SKILL.md /home/brandall/desarrollo/.agents/skills/$skill/
+done
+```
+
+---
+
+## Listado Completo de Skills
+
+### Marketing & Growth
+
+| Skill | Comando | Descripción |
+|-------|---------|-------------|
+| `ab-testing` | `cp /tmp/superpowers/skills/ab-testing/SKILL.md ...` | Tests A/B y experimentos |
+| `ad-creative` | `cp /tmp/superpowers/skills/ad-creative/SKILL.md ...` | Creatividad para ads |
+| `ads` | `cp /tmp/superpowers/skills/ads/SKILL.md ...` | Campañas publicitarias |
+| `ai-seo` | `cp /tmp/superpowers/skills/ai-seo/SKILL.md ...` | SEO para motores de IA |
+| `analytics` | `cp /tmp/superpowers/skills/analytics/SKILL.md ...` | Tracking y medición |
+| `aso` | `cp /tmp/superpowers/skills/aso/SKILL.md ...` | App Store Optimization |
+| `brandkit` | `cp /tmp/superpowers/skills/brandkit/SKILL.md ...` | Brand guidelines |
+| `churn-prevention` | `cp /tmp/superpowers/skills/churn-prevention/SKILL.md ...` | Reducción de churn |
+| `cold-email` | `cp /tmp/superpowers/skills/cold-email/SKILL.md ...` | Emails fríos B2B |
+| `co-marketing` | `cp /tmp/superpowers/skills/co-marketing/SKILL.md ...` | Co-marketing y partners |
+| `community-marketing` | `cp /tmp/superpowers/skills/community-marketing/SKILL.md ...` | Gestión de comunidades |
+| `content-strategy` | `cp /tmp/superpowers/skills/content-strategy/SKILL.md ...` | Estrategia de contenido |
+| `copy-editing` | `cp /tmp/superpowers/skills/copy-editing/SKILL.md ...` | Edición de copy |
+| `copywriting` | `cp /tmp/superpowers/skills/copywriting/SKILL.md ...` | Escritura de copy |
+| `cro` | `cp /tmp/superpowers/skills/cro/SKILL.md ...` | Optimización de conversión |
+| `customer-research` | `cp /tmp/superpowers/skills/customer-research/SKILL.md ...` | Investigación de clientes |
+| `directory-submissions` | `cp /tmp/superpowers/skills/directory-submissions/SKILL.md ...` | Envío a directorios |
+| `emails` | `cp /tmp/superpowers/skills/emails/SKILL.md ...` | Secuencias de email |
+| `free-tools` | `cp /tmp/superpowers/skills/free-tools/SKILL.md ...` | Herramientas gratuitas |
+| `lead-magnets` | `cp /tmp/superpowers/skills/lead-magnets/SKILL.md ...` | Lead magnets |
+| `launch` | `cp /tmp/superpowers/skills/launch/SKILL.md ...` | Lanzamientos |
+| `marketing-council` | `cp /tmp/superpowers/skills/marketing-council/SKILL.md ...` | Consejo de expertos |
+| `marketing-ideas` | `cp /tmp/superpowers/skills/marketing-ideas/SKILL.md ...` | Ideas de marketing |
+| `marketing-loops` | `cp /tmp/superpowers/skills/marketing-loops/SKILL.md ...` | Workflows recurrentes |
+| `marketing-plan` | `cp /tmp/superpowers/skills/marketing-plan/SKILL.md ...` | Planes de marketing |
+| `marketing-psychology` | `cp /tmp/superpowers/skills/marketing-psychology/SKILL.md ...` | Psicología del marketing |
+| `offers` | `cp /tmp/superpowers/skills/offers/SKILL.md ...` | Diseño de ofertas |
+| `onboarding` | `cp /tmp/superpowers/skills/onboarding/SKILL.md ...` | Onboarding de usuarios |
+| `paywalls` | `cp /tmp/superpowers/skills/paywalls/SKILL.md ...` | Paywalls y feature gates |
+| `popups` | `cp /tmp/superpowers/skills/popups/SKILL.md ...` | Popups y overlays |
+| `pricing` | `cp /tmp/superpowers/skills/pricing/SKILL.md ...` | Decisiones de pricing |
+| `product-marketing` | `cp /tmp/superpowers/skills/product-marketing/SKILL.md ...` | Marketing de producto |
+| `programmatic-seo` | `cp /tmp/superpowers/skills/programmatic-seo/SKILL.md ...` | SEO programático |
+| `prospecting` | `cp /tmp/superpowers/skills/prospecting/SKILL.md ...` | Generación de prospects |
+| `public-relations` | `cp /tmp/superpowers/skills/public-relations/SKILL.md ...` | PR y earned media |
+| `referrals` | `cp /tmp/superpowers/skills/referrals/SKILL.md ...` | Programas de referidos |
+| `revops` | `cp /tmp/superpowers/skills/revops/SKILL.md ...` | Revenue operations |
+| `sales-enablement` | `cp /tmp/superpowers/skills/sales-enablement/SKILL.md ...` | Collateral de ventas |
+| `schema` | `cp /tmp/superpowers/skills/schema/SKILL.md ...` | Schema markup |
+| `seo-audit` | `cp /tmp/superpowers/skills/seo-audit/SKILL.md ...` | Auditorías SEO |
+| `signup` | `cp /tmp/superpowers/skills/signup/SKILL.md ...` | Optimización de signup |
+| `site-architecture` | `cp /tmp/superpowers/skills/site-architecture/SKILL.md ...` | Arquitectura de sitio |
+| `sms` | `cp /tmp/superpowers/skills/sms/SKILL.md ...` | Marketing SMS/MMS |
+| `social` | `cp /tmp/superpowers/skills/social/SKILL.md ...` | Redes sociales |
+
+### Design & UI/UX
+
+| Skill | Comando | Descripción |
+|-------|---------|-------------|
+| `animation-vocabulary` | `cp /tmp/superpowers/skills/animation-vocabulary/SKILL.md ...` | Glosario de animaciones |
+| `design-taste-frontend` | `cp /tmp/superpowers/skills/design-taste-frontend/SKILL.md ...` | UI/UX Engineer Senior |
+| `emil-design-eng` | `cp /tmp/superpowers/skills/emil-design-eng/SKILL.md ...` | Filosofía Emil Kowalski |
+| `frontend-design` | `cp /tmp/superpowers/skills/frontend-design/SKILL.md ...` | Diseño visual distintivo |
+| `gpt-taste` | `cp /tmp/superpowers/skills/gpt-taste/SKILL.md ...` | Motion engineer GSAP |
+| `high-end-visual-design` | `cp /tmp/superpowers/skills/high-end-visual-design/SKILL.md ...` | Diseño de agencia premium |
+| `image` | `cp /tmp/superpowers/skills/image/SKILL.md ...` | Imágenes para marketing |
+| `image-to-code` | `cp /tmp/superpowers/skills/image-to-code/SKILL.md ...` | Imagen → código web |
+| `imagegen-frontend-mobile` | `cp /tmp/superpowers/skills/imagegen-frontend-mobile/SKILL.md ...` | Screens móviles premium |
+| `imagegen-frontend-web` | `cp /tmp/superpowers/skills/imagegen-frontend-web/SKILL.md ...` | Referencias de diseño web |
+| `industrial-brutalist-ui` | `cp /tmp/superpowers/skills/industrial-brutalist-ui/SKILL.md ...` | Interfaces brutalistas |
+| `minimalist-ui` | `cp /tmp/superpowers/skills/minimalist-ui/SKILL.md ...` | Interfaces editoriales |
+| `redesign-existing-projects` | `cp /tmp/superpowers/skills/redesign-existing-projects/SKILL.md ...` | Upgrade a calidad premium |
+| `review-animations` | `cp /tmp/superpowers/skills/review-animations/SKILL.md ...` | Revisión de animaciones |
+| `stitch-design-taste` | `cp /tmp/superpowers/skills/stitch-design-taste/SKILL.md ...` | Design system Stitch |
+| `ui-ux-pro-max` | `cp /tmp/superpowers/skills/ui-ux-pro-max/SKILL.md ...` | UI/UX intelligence |
+
+### Development Process
+
+| Skill | Comando | Descripción |
+|-------|---------|-------------|
+| `brainstorming` | Incluido con plugin | Antes de trabajo creativo |
+| `dispatching-parallel-agents` | Incluido con plugin | Tareas paralelas |
+| `executing-plans` | Incluido con plugin | Ejecución de planes |
+| `finishing-a-development-branch` | Incluido con plugin | Integración de branches |
+| `full-output-enforcement` | Incluido con plugin | Código completo sin truncar |
+| `receiving-code-review` | Incluido con plugin | Manejo de feedback |
+| `requesting-code-review` | Incluido con plugin | Solicitud de review |
+| `subagent-driven-development` | Incluido con plugin | Desarrollo con subagentes |
+| `systematic-debugging` | Incluido con plugin | Debugging sistemático |
+| `test-driven-development` | Incluido con plugin | TDD |
+| `using-git-worktrees` | Incluido con plugin | Workspaces aislados |
+| `using-superpowers` | Incluido con plugin | Guía del sistema |
+| `verification-before-completion` | Incluido con plugin | Verificación pre-merge |
+| `writing-plans` | Incluido con plugin | Escritura de planes |
+| `writing-skills` | Incluido con plugin | Creación de skills |
+
+---
+
+## Estructura de Directorios
+
+```
+~/.config/opencode/
+├── opencode.json              # Config con plugin superpowers
+└── plugins/
+    └── claude-mem.js          # Plugin de memoria
+
+/home/brandall/desarrollo/.agents/skills/   # Skills de proyecto
+├── ab-testing/SKILL.md
+├── ad-creative/SKILL.md
+├── ads/SKILL.md
+└── ... (56 skills)
+
+/root/.agents/skills/                       # Skills globales
+├── animation-vocabulary/SKILL.md
+├── emil-design-eng/SKILL.md
+├── frontend-design/SKILL.md
+└── ... (16 skills)
+
+/root/.cache/opencode/packages/superpowers@*/  # Plugin superpowers
+└── node_modules/superpowers/skills/           # Skills de proceso
+    ├── brainstorming/SKILL.md
+    ├── systematic-debugging/SKILL.md
+    └── ... (15 skills)
+```
+
+---
+
+## Verificar Instalación
+
+```bash
+# Contar skills instaladas
+echo "Skills de proyecto:"
+ls /home/brandall/desarrollo/.agents/skills/ | wc -l
+
+echo "Skills globales:"
+ls /root/.agents/skills/ | wc -l
+
+echo "Skills de superpowers:"
+ls /root/.cache/opencode/packages/superpowers@git+https:/github.com/obra/superpowers.git/node_modules/superpowers/skills/ | wc -l
+
+# Listar todas
+ls /home/brandall/desarrollo/.agents/skills/
+ls /root/.agents/skills/
+```
+
+---
 
 ## Licencia
 
